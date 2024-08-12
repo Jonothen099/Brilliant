@@ -1,1 +1,2 @@
 creating text file from second github account to simulate team env
+and change the file extension from text to txt
