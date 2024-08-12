@@ -1,1 +1,4 @@
 Changing this file to simulate a conflicts, where other user is modifying the same file on dif branch
+Just a file created on main branch before rebase to see what happen
+
+** new changes: Intentionally making changes to create conflicts between branches to practice solving github conflicts
